@@ -116,8 +116,10 @@ flowchart LR
 | Bar · Sales vs Profit | 🚀 **Product E** is the top product by sales (3,222) |
 
 > 💡 In the workbook, the insight line under each chart is **formula-driven**, so it changes automatically when the data changes.
-
 ---
+<img width="1800" height="2610" alt="all_in_one" src="https://github.com/user-attachments/assets/366f86b4-97ff-4e30-8b19-c01bc9b0f897" />
+
+
 
 <!-- ===================== SHEETS ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=70&section=header&text=🗂️%20Workbook%20Structure&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Workbook Structure"/>
