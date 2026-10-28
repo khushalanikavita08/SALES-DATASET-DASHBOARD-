@@ -73,6 +73,50 @@ Everything is **formula-driven**, so when the data changes, the summaries, chart
 
 ---
 
+<!-- ===================== WORKFLOW ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f953c6,100:b91d73&height=70&section=header&text=🔄%20Project%20Workflow&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Project Workflow"/>
+
+```mermaid
+flowchart LR
+    A[📥 Import<br/>Raw Data] --> B[🧹 Clean<br/>Data]
+    B --> C[🧮 Pivot<br/>Summaries]
+    C --> D[🧠 Advanced<br/>Formulas]
+    D --> E[📉 Charts]
+    E --> F[🖥️ Interactive<br/>Dashboard]
+    F --> G[📘 Documentation]
+    style A fill:#FF512F,color:#fff,stroke:none
+    style B fill:#DD2476,color:#fff,stroke:none
+    style C fill:#8E2DE2,color:#fff,stroke:none
+    style D fill:#4A00E0,color:#fff,stroke:none
+    style E fill:#2575FC,color:#fff,stroke:none
+    style F fill:#11998E,color:#fff,stroke:none
+    style G fill:#F7971E,color:#fff,stroke:none
+```
+
+---
+
+<!-- ===================== CHARTS GALLERY ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,50:DD2476,100:6A11CB&height=70&section=header&text=📉%20Dashboard%20%26%20Charts%20Gallery&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Dashboard and Charts Gallery"/>
+
+<div align="center">
+
+<img src="images/all_in_one.png" width="100%" alt="Dashboard and all charts in one image"/>
+
+<sub>🖼️ Dashboard + all 4 charts in one view</sub>
+
+</div>
+
+| 📊 Chart | 💡 Insight |
+|---|---|
+| Column · Sales by Region | 🏆 **East** is the top region with 3,467 sales |
+| Pie · Profit Share | 💎 **Product E** gives the biggest profit share (30%) |
+| Line · Monthly Trend | 🔥 **January** is the best month for sales (2,880) |
+| Bar · Sales vs Profit | 🚀 **Product E** is the top product by sales (3,222) |
+
+> 💡 In the workbook, the insight line under each chart is **formula-driven**, so it changes automatically when the data changes.
+
+---
+
 <!-- ===================== SHEETS ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=70&section=header&text=🗂️%20Workbook%20Structure&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Workbook Structure"/>
 
@@ -123,6 +167,8 @@ Everything is **formula-driven**, so when the data changes, the summaries, chart
 
 <!-- ===================== DASHBOARD ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=70&section=header&text=🖥️%20Interactive%20Dashboard&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Interactive Dashboard"/>
+
+> 👆 See the full dashboard preview in the **Dashboard & Charts Gallery** above.
 
 The **Dashboard** sheet responds live to your filters:
 
