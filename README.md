@@ -104,7 +104,7 @@ flowchart LR
 
 <img src="images/all_in_one.png" width="100%" alt="Dashboard and all charts in one image"/>
 
-<sub>🖼️ Dashboard + all 4 charts in one view</sub>
+ 
 
 </div>
 
