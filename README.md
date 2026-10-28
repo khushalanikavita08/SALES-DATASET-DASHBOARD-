@@ -52,6 +52,8 @@ This workbook is my **Final Practical Exam** project. It takes a small raw sales
 Everything is **formula-driven**, so when the data changes, the summaries, charts and dashboard update automatically. ⚡
 
 ---
+<img width="1950" height="1200" alt="project_structure (1)" src="https://github.com/user-attachments/assets/26300a45-2aaa-42e3-bafb-bd2eaffb1330" />
+
 
 <!-- ===================== KEY METRICS ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=70&section=header&text=📊%20Key%20Metrics&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Key Metrics"/>
